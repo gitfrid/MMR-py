@@ -12,8 +12,9 @@ _________________________________________
 <img src=https://github.com/gitfrid/MMR-py/blob/main/Plot%20Screenshot.png width="1280" height="auto">
 <br>
 <br>
+To select or deselect all countries, double-click on the legend. To select a single country, click on it once
 
-[Download html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases.html)
+[Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases.html)
 <br>
 
 ### Software Requirements:
