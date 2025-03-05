@@ -1,10 +1,20 @@
 ### MMR-py 
-**MMR Plot** 
 <br>
-<br>**MMR coverage vs case incidence rate for differnt counties**
+<br>
+
+**vac coverage vs case incidence rate for differnt counties**
  
 The [Python Scripts](https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts) to visualize downloaded CSV data
 
+_________________________________________
+
+<br>
+<img src=https://github.com/gitfrid/MMR-py/blob/main/Plot%20Screenshot.png width="1280" height="auto">
+<br>
+<br>
+
+[Download html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases.html)
+<br>
 
 ### Software Requirements:
 - [Python 3.12.5](https://www.python.org/downloads/) to run the scripts.
