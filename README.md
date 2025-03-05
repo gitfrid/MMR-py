@@ -2,7 +2,7 @@
 **MMR Plot** 
 <br>
 <br>**MMR coverage vs case incidence rate for differnt counties**
-
+ 
 The [Python Scripts](https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts) to visualize downloaded CSV data
 
 
