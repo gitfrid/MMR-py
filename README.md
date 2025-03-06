@@ -17,9 +17,5 @@ To select or deselect all countries, double-click on the legend. To select a sin
 [Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases.html)
 <br>
 
-### Software Requirements:
-- [Python 3.12.5](https://www.python.org/downloads/) to run the scripts.
-- [Visual Studio Code 1.92.2](https://code.visualstudio.com/download) to edit and run scripts.
-
 ### Disclaimer:
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
