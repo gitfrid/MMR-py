@@ -4,7 +4,7 @@
 
 **vac coverage vs case incidence rate for differnt counties**
  
-[Python Scripts](https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts) to visualize teh downloaded CSV data.
+[Python Scripts](https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts) for visualizing the downloaded CSV data
 
 _________________________________________
 
