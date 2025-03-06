@@ -1,14 +1,26 @@
 ### MMR-py 
-**MMR Plot** 
 <br>
-<br>**MMR coverage vs case incidence rate for differnt counties**
+<br>
+
+**vac coverage vs case incidence rate for differnt counties**
  
-The [Python Scripts](https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts) to visualize downloaded CSV data
+[Python Scripts](https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts) for visualizing the downloaded CSV data
 
+_________________________________________
 
-### Software Requirements:
-- [Python 3.12.5](https://www.python.org/downloads/) to run the scripts.
-- [Visual Studio Code 1.92.2](https://code.visualstudio.com/download) to edit and run scripts.
+<br>
+<img src=https://github.com/gitfrid/MMR-py/blob/main/Plot%20Screenshot.png width="1280" height="auto">
+<br>
+<br>
+To select or deselect all countries, double-click on the legend. To select a single country, click on it once
+
+[Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases.html)
+<br>
+
+<small>Confirmed reported cases, including those confirmed clinically,
+epidemiologically-linked or by laboratory investigation,
+EXCEPT for countries that have eliminated. For countries that HAVE eliminated,
+cases confirmed clinically should not be included in the sum of total cases.</small>
 
 ### Disclaimer:
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
