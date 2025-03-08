@@ -58,7 +58,7 @@ _________________________________________
 <br>
 _________________________________________
 
-**Rising Coverage and Rising Cases:**
+**Falling Coverage and Falling Cases:**
 <br>
 <img src= width="1280" height="auto">
 <br>
@@ -68,7 +68,7 @@ _________________________________________
 
 _________________________________________
 
-**Rising Coverage and Rising Cases:**
+**Rising Coverage and Falling Cases:**
 <br>
 <img src= width="1280" height="auto">
 <br>
@@ -78,7 +78,7 @@ _________________________________________
 
 _________________________________________
 
-**Rising Coverage and Rising Cases:**
+**Falling Coverage and Rising Cases:**
 <br>
 <img src= width="1280" height="auto">
 <br>
