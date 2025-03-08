@@ -14,7 +14,7 @@ _________________________________________
 
 ### Vax coverage vs case incidence rate for differnt counties
  
-[Python Script]([https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts](https://github.com/gitfrid/MMR-py/blob/main/A)%20MMR-2.py) for visualizing the downloaded CSV data
+Phyton script [A) MMR-2.py](https://github.com/gitfrid/MMR-py/blob/main/A%29%20MMR-2.py) for visualizing the downloaded CSV data
 
 _________________________________________
 
@@ -37,8 +37,9 @@ _________________________________________
 _________________________________________
 <br>
 ### Vax coverage vs case incidence rate for differnt counties including trend line categories
+
 <br>
-[Python Script](https://github.com/gitfrid/MMR-py/blob/main/B%29%20MMR.py) for visualizing the downloaded CSV data
+Phyton script [B) MMR.py](https://github.com/gitfrid/MMR-py/blob/main/B%29%20MMR.py) for visualizing the downloaded CSV data with trend lines 
 <br>
 _________________________________________
 
