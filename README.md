@@ -2,9 +2,19 @@
 <br>
 <br>
 
-**vac coverage vs case incidence rate for differnt counties**
+**<small>Confirmed reported cases, including those confirmed clinically,
+epidemiologically-linked or by laboratory investigation,
+EXCEPT for countries that have eliminated. For countries that HAVE eliminated,
+cases confirmed clinically should not be included in the sum of total cases.</small>**
+
+### Disclaimer:
+**The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
+
+_________________________________________
+
+### Vax coverage vs case incidence rate for differnt counties
  
-[Python Scripts](https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts) for visualizing the downloaded CSV data
+[Python Script]([https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts](https://github.com/gitfrid/MMR-py/blob/main/A)%20MMR-2.py) for visualizing the downloaded CSV data
 
 _________________________________________
 
@@ -21,15 +31,17 @@ _________________________________________
 <br>
 <img src=https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases_1980_2023.png width="1280" height="auto">
 <br>
-<br>
 
 [Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases_1980_2023.html) 1980-2023
 <br>
+_________________________________________
+<br>
+### Vax coverage vs case incidence rate for differnt counties including trend line categories
+<br>
+[Python Script](https://github.com/gitfrid/MMR-py/blob/main/B%29%20MMR.py) for visualizing the downloaded CSV data
+<br>
+_________________________________________
 
-<small>Confirmed reported cases, including those confirmed clinically,
-epidemiologically-linked or by laboratory investigation,
-EXCEPT for countries that have eliminated. For countries that HAVE eliminated,
-cases confirmed clinically should not be included in the sum of total cases.</small>
 
-### Disclaimer:
-**The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
+
+
