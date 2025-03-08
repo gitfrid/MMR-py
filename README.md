@@ -2,9 +2,19 @@
 <br>
 <br>
 
-**vac coverage vs case incidence rate for differnt counties**
+**<small>Confirmed reported cases, including those confirmed clinically,
+epidemiologically-linked or by laboratory investigation,
+EXCEPT for countries that have eliminated. For countries that HAVE eliminated,
+cases confirmed clinically should not be included in the sum of total cases.</small>**
+
+### Disclaimer:
+**The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
+
+_________________________________________
+
+### Vax coverage vs case incidence rate for differnt counties
  
-[Python Scripts](https://github.com/gitfrid/CzechFOI-SIM/tree/main/Py%20Scripts) for visualizing the downloaded CSV data
+Phyton script [A) MMR-2.py](https://github.com/gitfrid/MMR-py/blob/main/A%29%20MMR-2.py) for visualizing the downloaded CSV data
 
 _________________________________________
 
@@ -21,15 +31,60 @@ _________________________________________
 <br>
 <img src=https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases_1980_2023.png width="1280" height="auto">
 <br>
-<br>
 
 [Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases_1980_2023.html) 1980-2023
 <br>
+_________________________________________
+<br>
 
-<small>Confirmed reported cases, including those confirmed clinically,
-epidemiologically-linked or by laboratory investigation,
-EXCEPT for countries that have eliminated. For countries that HAVE eliminated,
-cases confirmed clinically should not be included in the sum of total cases.</small>
+### Vax coverage vs case incidence rate for differnt counties including trend line categories:
+    Rising Coverage and Rising Cases:
+    Falling Coverage and Falling Cases:
+    Rising Coverage and Falling Cases:
+    Falling Coverage and Rising Cases:
 
-### Disclaimer:
-**The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
+<br>
+
+Phyton script [B) MMR.py](https://github.com/gitfrid/MMR-py/blob/main/B%29%20MMR.py) for visualizing the downloaded CSV data with trend lines 
+<br>
+_________________________________________
+
+**Rising Coverage and Rising Cases:**
+<br>
+<img src= width="1280" height="auto">
+<br>
+
+[Download interactive html]() 2000-2023
+<br>
+_________________________________________
+
+**Falling Coverage and Falling Cases:**
+<br>
+<img src= width="1280" height="auto">
+<br>
+
+[Download interactive html]() 2000-2023
+<br>
+
+_________________________________________
+
+**Rising Coverage and Falling Cases:**
+<br>
+<img src= width="1280" height="auto">
+<br>
+
+[Download interactive html]() 2000-2023
+<br>
+
+_________________________________________
+
+**Falling Coverage and Rising Cases:**
+<br>
+<img src= width="1280" height="auto">
+<br>
+
+[Download interactive html]() 2000-2023
+<br>
+
+
+
