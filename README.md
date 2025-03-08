@@ -37,7 +37,8 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categoriesRising Coverage and Rising Cases:
+### Vax coverage vs case incidence rate for differnt counties including trend line categories:
+    Rising Coverage and Rising Cases:
     Falling Coverage and Falling Cases:
     Rising Coverage and Falling Cases:
     Falling Coverage and Rising Cases:
