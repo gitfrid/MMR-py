@@ -36,9 +36,14 @@ _________________________________________
 <br>
 _________________________________________
 <br>
-### Vax coverage vs case incidence rate for differnt counties including trend line categories
+
+### Vax coverage vs case incidence rate for differnt counties including trend line categoriesRising Coverage and Rising Cases:
+    Falling Coverage and Falling Cases:
+    Rising Coverage and Falling Cases:
+    Falling Coverage and Rising Cases:
 
 <br>
+
 Phyton script [B) MMR.py](https://github.com/gitfrid/MMR-py/blob/main/B%29%20MMR.py) for visualizing the downloaded CSV data with trend lines 
 <br>
 _________________________________________
