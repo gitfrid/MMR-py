@@ -56,5 +56,35 @@ _________________________________________
 
 [Download interactive html]() 2000-2023
 <br>
+_________________________________________
+
+**Rising Coverage and Rising Cases:**
+<br>
+<img src= width="1280" height="auto">
+<br>
+
+[Download interactive html]() 2000-2023
+<br>
+
+_________________________________________
+
+**Rising Coverage and Rising Cases:**
+<br>
+<img src= width="1280" height="auto">
+<br>
+
+[Download interactive html]() 2000-2023
+<br>
+
+_________________________________________
+
+**Rising Coverage and Rising Cases:**
+<br>
+<img src= width="1280" height="auto">
+<br>
+
+[Download interactive html]() 2000-2023
+<br>
+
 
 
