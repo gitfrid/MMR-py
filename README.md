@@ -14,7 +14,16 @@ _________________________________________
 <br>
 To select or deselect all countries, double-click on the legend. To select a single country, click on it once
 
-[Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases.html)
+[Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases.html) 2000-2023
+<br>
+_________________________________________
+
+<br>
+<img src=https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases_1980_2023.png width="1280" height="auto">
+<br>
+<br>
+
+[Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/vaccination_vs_reported_cases_1980_2023.html) 1980-2023
 <br>
 
 <small>Confirmed reported cases, including those confirmed clinically,
