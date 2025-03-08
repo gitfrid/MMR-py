@@ -49,6 +49,12 @@ Phyton script [B) MMR.py](https://github.com/gitfrid/MMR-py/blob/main/B%29%20MMR
 <br>
 _________________________________________
 
+**Rising Coverage and Rising Cases:**
+<br>
+<img src= width="1280" height="auto">
+<br>
 
+[Download interactive html]() 2000-2023
+<br>
 
 
