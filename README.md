@@ -12,7 +12,7 @@ cases confirmed clinically should not be included in the sum of total cases.</sm
 
 _________________________________________
 
-### Vax coverage vs case incidence rate for differnt counties
+### Vax coverage vs case incidence rate for differnt counties, M-containing vac 2nd Dose
  
 Phyton script [A) MMR-2.py](https://github.com/gitfrid/MMR-py/blob/main/A%29%20MMR-2.py) for visualizing the downloaded CSV data
 
@@ -37,7 +37,7 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories:
+### Vax coverage vs case incidence rate for differnt counties including trend line categories , M-containing vac 2nd Dose:
     Rising Coverage and Rising Cases:
     Falling Coverage and Falling Cases:
     Rising Coverage and Falling Cases:
