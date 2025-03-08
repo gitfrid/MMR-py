@@ -51,7 +51,7 @@ _________________________________________
 
 **Rising Coverage and Rising Cases:**
 <br>
-<img src= width="1280" height="auto">
+<img src=https://github.com/gitfrid/MMR-py/blob/main/B%29%20MMR%20rising%20vac%20coverage%20and%20rising%20cases%20trend%202000-2023.png width="1280" height="auto">
 <br>
 
 [Download interactive html]() 2000-2023
@@ -63,7 +63,7 @@ _________________________________________
 <img src= width="1280" height="auto">
 <br>
 
-[Download interactive html]() 2000-2023
+[Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/B$29%20MMR%20rising%20vac%20coverage%20and%20rising%20cases%20trend%202000-2023.html) 2000-2023
 <br>
 
 _________________________________________
