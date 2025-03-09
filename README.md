@@ -123,9 +123,9 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories , M-containing vac 2nd Dose 1980-2023:
+### Vax coverage vs case incidence rate for differnt counties including trend line categories , <br>M-containing vac 2nd Dose for years 1980-2023:
 
-In order to compare the trends, M-containing vac 1st Dose from 1980 onwards would also have to be taken into account, which are not included here!
+Warning: In order to compare the trends, M-containing vac 1st Dose from 1980 onwards would also have to be taken into account, which are not included here!
 
 <br>Download Trends 1980-2023 as interactive HTML-Files from [root directory](https://github.com/gitfrid/MMR-py) for visualizing the downloaded CSV data with trend lines 
 <br>
