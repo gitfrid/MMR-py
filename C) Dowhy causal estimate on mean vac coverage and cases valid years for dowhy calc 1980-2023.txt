@@ -1,0 +1,444 @@
+Country: Afghanistan
+Years used for causal analysis: 2004, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Albania
+Years used for causal analysis: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2010, 2011, 2012, 2016, 2017, 2018, 2019, 2020, 2023
+
+Country: Algeria
+Years used for causal analysis: 1999, 2002, 2003, 2004, 2005, 2006, 2008, 2009, 2010, 2011, 2013, 2015, 2016, 2017, 2018
+
+Country: Angola
+Years used for causal analysis: 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Argentina
+Years used for causal analysis: 2000, 2009, 2010, 2011, 2017, 2018, 2019, 2020
+
+Country: Armenia
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2023
+
+Country: Australia
+Years used for causal analysis: 2002, 2003, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: Austria
+Years used for causal analysis: 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Azerbaijan
+Years used for causal analysis: 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2013, 2018, 2019, 2020, 2022, 2023
+
+Country: Bahrain
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2014, 2019, 2022, 2023
+
+Country: Bangladesh
+Years used for causal analysis: 2012, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023
+
+Country: Belarus
+Years used for causal analysis: 2000, 2003, 2004, 2005, 2006, 2007, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2023
+
+Country: Belgium
+Years used for causal analysis: 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Bhutan
+Years used for causal analysis: 2008, 2009, 2011, 2012, 2016, 2018, 2019, 2022, 2023
+
+Country: Bosnia and herzegovina
+Years used for causal analysis: 1999, 2000, 2002, 2004, 2005, 2006, 2007, 2008, 2010, 2012, 2014, 2018, 2019, 2022, 2023
+
+Country: Botswana
+Years used for causal analysis: 2013, 2014, 2016
+
+Country: Brazil
+Years used for causal analysis: 2000, 2010, 2011, 2013, 2014, 2015, 2018, 2019, 2020, 2021, 2022
+
+Country: Brunei darussalam
+Years used for causal analysis: 1999, 2004, 2015, 2016, 2018, 2019, 2023
+
+Country: Bulgaria
+Years used for causal analysis: 2000, 2001, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2016, 2017, 2018, 2019, 2020, 2022
+
+Country: Burkina faso
+Years used for causal analysis: 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: Burundi
+Years used for causal analysis: 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Cambodia
+Years used for causal analysis: 2012, 2016, 2020
+
+Country: Cameroon
+Years used for causal analysis: 2020, 2021, 2022, 2023
+
+Country: Canada
+Years used for causal analysis: 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2022, 2023
+
+Country: Chad
+Years used for causal analysis: 2022, 2023
+
+Country: Chile
+Years used for causal analysis: 2009, 2011, 2015, 2018, 2019, 2020, 2023
+
+Country: China
+Years used for causal analysis: 2001, 2005, 2006, 2007, 2020, 2021, 2022, 2023
+
+Country: China, hong kong sar
+Years used for causal analysis: 1999, 2000, 2001, 2003, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019
+
+Country: China, macao sar
+Years used for causal analysis: 1999, 2000, 2001, 2003, 2008, 2012, 2013, 2017, 2018, 2019
+
+Country: Colombia
+Years used for causal analysis: 1997, 1998, 1999, 2001, 2002, 2011, 2018, 2019
+
+Country: Congo
+Years used for causal analysis: 2020, 2021, 2022, 2023
+
+Country: Cook islands
+Years used for causal analysis: 2000, 2003
+
+Country: Costa rica
+Years used for causal analysis: 2014, 2019, 2023
+
+Country: Croatia
+Years used for causal analysis: 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2023
+
+Country: Cyprus
+Years used for causal analysis: 2008, 2010
+
+Country: Czechia
+Years used for causal analysis: 2000, 2001, 2002, 2003, 2004, 2006, 2007, 2008, 2009, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018
+
+Country: Democratic people's republic of korea
+Years used for causal analysis: 2008, 2014
+
+Country: Denmark
+Years used for causal analysis: 2001, 2002, 2005, 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2023
+
+Country: Djibouti
+Years used for causal analysis: 2012, 2018, 2022, 2023
+
+Country: Ecuador
+Years used for causal analysis: 2011, 2012, 2016, 2018
+
+Country: Egypt
+Years used for causal analysis: 1999, 2000, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2022, 2023
+
+Country: Equatorial guinea
+Years used for causal analysis: 2021, 2022, 2023
+
+Country: Eritrea
+Years used for causal analysis: 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Estonia
+Years used for causal analysis: 2005, 2006, 2007, 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2023
+
+Country: Eswatini
+Years used for causal analysis: 2008, 2010, 2016, 2022, 2023
+
+Country: Ethiopia
+Years used for causal analysis: 2019, 2020, 2021, 2022, 2023
+
+Country: Finland
+Years used for causal analysis: 2016, 2017, 2018, 2019, 2021, 2023
+
+Country: France
+Years used for causal analysis: 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2021, 2022, 2023
+
+Country: Gambia
+Years used for causal analysis: 2014, 2015, 2016, 2017, 2018, 2019, 2022, 2023
+
+Country: Georgia
+Years used for causal analysis: 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Germany
+Years used for causal analysis: 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Ghana
+Years used for causal analysis: 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Greece
+Years used for causal analysis: 2007, 2008, 2009, 2011, 2012, 2013
+
+Country: Guinea
+Years used for causal analysis: 2022, 2023
+
+Country: Iceland
+Years used for causal analysis: 2016, 2017, 2019
+
+Country: India
+Years used for causal analysis: 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Indonesia
+Years used for causal analysis: 2004, 2005, 2007, 2008, 2010, 2011, 2012, 2016, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Iran (islamic republic of)
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2005, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+
+Country: Iraq
+Years used for causal analysis: 2000, 2004, 2005, 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+
+Country: Ireland
+Years used for causal analysis: 2020, 2022, 2023
+
+Country: Italy
+Years used for causal analysis: 2015, 2020, 2021, 2022, 2023
+
+Country: Jamaica
+Years used for causal analysis: 2008, 2011
+
+Country: Japan
+Years used for causal analysis: 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+
+Country: Jordan
+Years used for causal analysis: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2012, 2013, 2019, 2022
+
+Country: Kazakhstan
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: Kenya
+Years used for causal analysis: 2015, 2016, 2017, 2018, 2019, 2021, 2022, 2023
+
+Country: Kuwait
+Years used for causal analysis: 2010, 2011, 2012, 2014, 2015, 2016, 2017, 2018, 2022, 2023
+
+Country: Kyrgyzstan
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2004, 2006, 2007, 2008, 2009, 2011, 2013, 2014, 2015, 2017, 2018, 2019, 2021, 2023
+
+Country: Lao people's democratic republic
+Years used for causal analysis: 2012, 2017, 2018, 2019, 2020, 2021, 2023
+
+Country: Latvia
+Years used for causal analysis: 2001, 2005, 2006, 2008, 2011, 2012, 2014, 2018, 2019, 2023
+
+Country: Lebanon
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2019, 2020, 2023
+
+Country: Lesotho
+Years used for causal analysis: 2001, 2003, 2004, 2006, 2007, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Liberia
+Years used for causal analysis: 2019, 2020, 2021, 2022, 2023
+
+Country: Libya
+Years used for causal analysis: 2004, 2005, 2006, 2007, 2008, 2009, 2012, 2014, 2015, 2016, 2018, 2019, 2022, 2023
+
+Country: Lithuania
+Years used for causal analysis: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2023
+
+Country: Luxembourg
+Years used for causal analysis: 2012, 2017, 2018, 2019
+
+Country: Madagascar
+Years used for causal analysis: 2020, 2021, 2022, 2023
+
+Country: Malawi
+Years used for causal analysis: 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Malaysia
+Years used for causal analysis: 2005, 2006, 2009, 2010, 2011, 2015, 2019, 2020, 2022, 2023
+
+Country: Maldives
+Years used for causal analysis: 2005, 2006, 2007, 2009, 2017, 2018, 2020, 2023
+
+Country: Mali
+Years used for causal analysis: 2021, 2022, 2023
+
+Country: Malta
+Years used for causal analysis: 2000, 2003, 2005, 2006, 2007, 2008, 2009, 2011, 2015, 2018, 2019, 2020, 2021
+
+Country: Mauritius
+Years used for causal analysis: 2004, 2005, 2006, 2007, 2010, 2011, 2019
+
+Country: Mexico
+Years used for causal analysis: 2000, 2003, 2005, 2006, 2020
+
+Country: Micronesia (federated states of)
+Years used for causal analysis: 2014, 2022, 2023
+
+Country: Monaco
+Years used for causal analysis: 2017, 2019
+
+Country: Mongolia
+Years used for causal analysis: 2000, 2003, 2006, 2007, 2010, 2015, 2016, 2017, 2018, 2019, 2022
+
+Country: Mozambique
+Years used for causal analysis: 2017, 2018, 2019, 2023
+
+Country: Myanmar
+Years used for causal analysis: 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Namibia
+Years used for causal analysis: 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Nepal
+Years used for causal analysis: 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Netherlands (kingdom of the)
+Years used for causal analysis: 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: New zealand
+Years used for causal analysis: 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+
+Country: Niger
+Years used for causal analysis: 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Nigeria
+Years used for causal analysis: 2021, 2022, 2023
+
+Country: North macedonia
+Years used for causal analysis: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2021, 2023
+
+Country: Norway
+Years used for causal analysis: 2001, 2002, 2003, 2004, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: Occupied palestinian territory, including east jerusalem
+Years used for causal analysis: 2000, 2017, 2019, 2023
+
+Country: Oman
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2017, 2020, 2022, 2023
+
+Country: Pakistan
+Years used for causal analysis: 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Papua new guinea
+Years used for causal analysis: 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2006, 2019, 2020, 2022, 2023
+
+Country: Peru
+Years used for causal analysis: 2015, 2018, 2019
+
+Country: Philippines
+Years used for causal analysis: 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Poland
+Years used for causal analysis: 1999, 2000, 2002, 2003, 2004, 2005, 2006, 2007, 2009, 2010, 2012, 2013, 2016, 2017, 2018, 2019, 2020, 2021, 2022
+
+Country: Portugal
+Years used for causal analysis: 2008, 2009, 2010, 2011, 2012, 2013, 2016, 2017, 2018, 2020
+
+Country: Qatar
+Years used for causal analysis: 2002, 2003, 2005, 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022, 2023
+
+Country: Republic of korea
+Years used for causal analysis: 2000, 2003, 2004, 2005, 2006, 2007, 2009, 2010, 2011, 2019, 2020, 2023
+
+Country: Republic of moldova
+Years used for causal analysis: 2002, 2003, 2004, 2005, 2006, 2007, 2012, 2013, 2014, 2018, 2019, 2023
+
+Country: Romania
+Years used for causal analysis: 1999, 2001, 2003, 2004, 2005, 2006, 2007, 2008, 2010, 2011, 2013, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Russian federation
+Years used for causal analysis: 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: Rwanda
+Years used for causal analysis: 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2023
+
+Country: Samoa
+Years used for causal analysis: 2010, 2012, 2017, 2019, 2020
+
+Country: San marino
+Years used for causal analysis: 2012, 2019
+
+Country: Saudi arabia
+Years used for causal analysis: 2001, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Senegal
+Years used for causal analysis: 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Serbia
+Years used for causal analysis: 1999, 2001, 2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2021, 2023
+
+Country: Sierra leone
+Years used for causal analysis: 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Singapore
+Years used for causal analysis: 1994, 1995, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2017, 2018
+
+Country: Slovakia
+Years used for causal analysis: 2003, 2004, 2015, 2017, 2018, 2019, 2023
+
+Country: Slovenia
+Years used for causal analysis: 1999, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2023
+
+Country: South africa
+Years used for causal analysis: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Spain
+Years used for causal analysis: 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2023
+
+Country: Sri lanka
+Years used for causal analysis: 2001, 2003, 2004, 2005, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2019, 2020, 2023
+
+Country: Sudan
+Years used for causal analysis: 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+
+Country: Sweden
+Years used for causal analysis: 2000, 2001, 2004, 2005, 2006, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2022, 2023
+
+Country: Switzerland
+Years used for causal analysis: 2005, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2020, 2022, 2023
+
+Country: Syrian arab republic
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2004, 2005, 2006, 2007, 2009, 2010, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Tajikistan
+Years used for causal analysis: 1999, 2000, 2002, 2003, 2004, 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023
+
+Country: Thailand
+Years used for causal analysis: 1999, 2000, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2022
+
+Country: Timor-leste
+Years used for causal analysis: 2016, 2019, 2020, 2022
+
+Country: Togo
+Years used for causal analysis: 2019, 2020, 2021, 2022, 2023
+
+Country: Tonga
+Years used for causal analysis: 2019, 2023
+
+Country: Tunisia
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Turkmenistan
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2004, 2006, 2007
+
+Country: Ukraine
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2008, 2010, 2011, 2012, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: United arab emirates
+Years used for causal analysis: 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2008, 2010, 2012, 2015, 2020, 2021, 2023
+
+Country: United kingdom of great britain and northern ireland
+Years used for causal analysis: 2000, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: United republic of tanzania
+Years used for causal analysis: 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: United states of america
+Years used for causal analysis: 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2016, 2018
+
+Country: Uruguay
+Years used for causal analysis: 2019, 2020
+
+Country: Uzbekistan
+Years used for causal analysis: 1999, 2001, 2002, 2003, 2004, 2011, 2014, 2015, 2018, 2019, 2020, 2022, 2023
+
+Country: Venezuela (bolivarian republic of)
+Years used for causal analysis: 2017, 2018, 2019
+
+Country: Viet nam
+Years used for causal analysis: 2021, 2022, 2023
+
+Country: Yemen
+Years used for causal analysis: 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Zambia
+Years used for causal analysis: 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023
+
+Country: Zimbabwe
+Years used for causal analysis: 2016, 2017, 2018, 2019, 2020, 2022, 2023
+
+Country: Israel
+Years used for causal analysis: 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+
+Country: Morocco
+Years used for causal analysis: 2004, 2006, 2007, 2012, 2014, 2015, 2018
+
