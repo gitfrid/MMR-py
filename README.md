@@ -7,18 +7,18 @@ epidemiologically-linked or by laboratory investigation,
 EXCEPT for countries that have eliminated. For countries that HAVE eliminated,
 cases confirmed clinically should not be included in the sum of total cases!</small>**
 
+Case incidence rate per 1M
+[Download Link immunizationdata.who.int](https://immunizationdata.who.int/global/wiise-detail-page/measles-reported-cases-and-incidence?GROUP=Countries&YEAR=)
+
+Vac coverage official Numbers Measles-containing vaccine 2d Dose
+[Download Link immunizationdata.who.int](https://immunizationdata.who.int/global/wiise-detail-page/measles-vaccination-coverage?CODE=ISR&ANTIGEN=MCV2&YEAR=)
+
 ### Disclaimer:
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
 
 _________________________________________
 
 ### Vax coverage vs case incidence rate for differnt counties, M-containing vac 2nd Dose
-
-Case incidence rate per 1M
-[Download Link immunizationdata.who.int](https://immunizationdata.who.int/global/wiise-detail-page/measles-reported-cases-and-incidence?GROUP=Countries&YEAR=)
-
-Vac coverage official Numbers Measles-containing vaccine 2d Dose
-[Download Link immunizationdata.who.int](https://immunizationdata.who.int/global/wiise-detail-page/measles-vaccination-coverage?CODE=ISR&ANTIGEN=MCV2&YEAR=)
 
 Phyton script [A) MMR-2.py](https://github.com/gitfrid/MMR-py/blob/main/A%29%20MMR-2.py) for visualizing the downloaded CSV data
 
