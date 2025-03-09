@@ -18,6 +18,11 @@ Vac coverage official Numbers Measles-containing vaccine 2d Dose
 _________________________________________
 
 ### Dowhy causal impact estimation vax coverage on case incidence rate for differnt counties, M-containing vac 2nd Dose
+Uses the DoWhy Library https://github.com/py-why/dowhy
+<br>
+<p>DoWhy is a Python library for causal inference that allows modeling and testing of causal assumptions, based on a unified language for causal inference.
+<strong>See the book <em>Models, Reasoning, and Inference</em> by Judea Pearl for deeper insights, that goes far beyond my horizon.</strong></p>
+<br>
 
 Phyton script [C) MMR-2.py](https://github.com/gitfrid/MMR-py/blob/main/C%29%20MMR.py) for visualizing the downloaded CSV data
 
