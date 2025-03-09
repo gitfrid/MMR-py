@@ -15,7 +15,21 @@ Vac coverage official Numbers Measles-containing vaccine 2d Dose
 
 ### Disclaimer:
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
+_________________________________________
 
+### Dowhy causal impact estimation vax coverage on case incidence rate for differnt counties, M-containing vac 2nd Dose
+
+Phyton script [C) MMR-2.py](https://github.com/gitfrid/MMR-py/blob/main/C%29%20MMR.py) for visualizing the downloaded CSV data
+
+_________________________________________
+
+<br>
+<img src=https://github.com/gitfrid/MMR-py/blob/main/C)%20Dowhy%20causal%20estimate%20on%20mean%20vac%20coverage%20and%20cases%202000-2023.png width="1280" height="auto">
+<br>
+
+To select or deselect all, double-click on the legend. To select a single legend, click on it once
+<br>[Download interactive html](https://github.com/gitfrid/MMR-py/blob/main/C%29%20Dowhy%20causal%20estimate%20on%20mean%20vac%20coverage%20and%20cases%202000-2023.html) 2000-2023
+<br>
 _________________________________________
 
 ### Vax coverage vs case incidence rate for differnt counties, M-containing vac 2nd Dose
