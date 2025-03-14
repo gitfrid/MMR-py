@@ -1,3 +1,11 @@
+# csv data from
+
+# case incidence rate per 1M
+# https://immunizationdata.who.int/global/wiise-detail-page/measles-reported-cases-and-incidence?GROUP=Countries&YEAR=
+
+# vac coverage Official Numbers Measles-containing vaccine 2d Dose
+# https://immunizationdata.who.int/global/wiise-detail-page/measles-vaccination-coverage?CODE=ISR&ANTIGEN=MCV2&YEAR=
+
 import pandas as pd
 import plotly.graph_objects as go
 
