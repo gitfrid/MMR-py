@@ -16,7 +16,7 @@ Case incidence rate per 1M
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
 _________________________________________
 
-### Dowhy causal impact estimation vax coverage on case incidence rate for differnt counties, <br>M-containing vac 2nd Dose
+### Dowhy causal impact estimation vax coverage on case incidence rate for differnt countries, <br>M-containing vac 2nd Dose
 
 <br>
 <p>DoWhy is a Python library for causal inference that allows modeling and testing of causal assumptions, based on a unified language for causal inference.
@@ -48,7 +48,7 @@ The causal effect estimation gives a numerical value indicating how much the out
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties, M-containing vac 2nd Dose
+### Vax coverage vs case incidence rate for differnt countries, M-containing vac 2nd Dose
 
 Phyton script [A) MMR-2.py](https://github.com/gitfrid/MMR-py/blob/main/A%29%20MMR-2.py) for visualizing the downloaded CSV data
 
@@ -123,7 +123,7 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt counties including trend line categories , <br>M-containing vac 2nd Dose for years 1980-2023:
+### Vax coverage vs case incidence rate for differnt countries including trend line categories , <br>M-containing vac 2nd Dose for years 1980-2023:
 
 Warning: In order to compare the trends, M-containing vac 1st Dose from 1980 onwards would also have to be taken into account, which are not included here!
 <br>
